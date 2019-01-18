@@ -1,0 +1,12 @@
+{
+  "name": "/home/bturner/public_html/328/food",
+  "authors": [
+    {
+      "name": "Bruce Turner",
+      "email": "BTurner15@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
